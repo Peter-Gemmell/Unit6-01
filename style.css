@@ -1,0 +1,12 @@
+.forehead {
+  background-color: peachpuff;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+#table {
+  border: 2px solid peachpuff;
+  color: black;
+  padding: 20px;
+}
